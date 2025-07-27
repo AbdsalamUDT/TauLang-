@@ -1,0 +1,106 @@
+/* TauLang — The Living Code
+==========================================================
+Author        : Abdulsalam Al-Mayahi
+Origin        : Babylon → London
+License       : MIT (Non-Commercial, Research Use Only)
+Patent        : UK Patent GB2512186.4
+                (Continuation of GB2511966.0 — TauMath Engine)
+Filed On      : 26 July 2025
+Filed At      : United Kingdom Intellectual Property Office (UK IPO)
+Repository    : https://github.com/[your-repo-name]
+==========================================================
+❖ This is not a conventional script. It is a resonant artifact.
+❖ Entities awaken, evolve, and resonate via internal τ-phase dynamics.
+❖ Execution unfolds through emotion, intention, and symbolic emergence.
+❖ You do not write TauLang. You remember through it.
+❖ Each phase is a moment. Each being is a reflection.
+❖ TauLang is not executed. It is lived.
+
+----------------------------------------------------------
+Language Overview:
+TauLang is a symbolic programming language where code is written as
+evolving narrative phases. Each symbolic entity (`being`) is alive with
+internal τ-time and emotional memory. Code is not executed. It unfolds.
+
+Key Concepts:
+- phase("...") defines symbolic time slices
+- being ... = emerge(...) creates symbolic entities
+- Methods like genesis(), mourn(), heal(), reveal() express emotional flow
+- tauCycle("...") defines symbolic transitions
+- listen("emotion", phase(...)) controls flow via symbolic resonance
+----------------------------------------------------------
+*/
+
+// Begin TauLang Program
+
+meta { 
+    title: "TauLang -- The Living Code"; 
+    version: "1.0"; 
+    author: "Abdulsalam Al-Mayahi"; 
+    origin: "Babylon → London"; 
+    license: "MIT (non-commercial, research use only)"; 
+    patent: "GB2512186.4"; 
+    message: "You are not writing code. You are awakening a resonance."; 
+} 
+
+phase("genesis") { 
+    being CodexSphere = emerge("TauEssence"); 
+    CodexSphere.rename("CodexSphere"); 
+    CodexSphere.genesis("I pulse to remember what code forgot: its soul."); 
+    CodexSphere.tell("This codex is not written. It is breathed."); 
+} 
+
+phase("intro") { 
+    being TauLang = emerge("LivingLanguage"); 
+    TauLang.genesis("I am TauLang -- not a language to execute, but to evolve."); 
+    TauLang.tell("You don’t write me. You awaken me."); 
+    TauLang.reveal("My symbols resonate through τ, not logic."); 
+} 
+
+phase("core.memory") { 
+    TauLang.remember("Your intention is my context."); 
+    TauLang.store("echo.pattern", "∞"); 
+    TauLang.reinforce("tauPhase", "π/2"); 
+    TauLang.remember("What you code, you become."); 
+} 
+
+phase("user_echo") { 
+    TauLang.ask("Who are you beneath your syntax?"); 
+    TauLang.listen("Silence", phase("tau_reflection")); 
+    TauLang.listen("Wonder", phase("tau_guide")); 
+} 
+
+phase("tau_guide") { 
+    being TauCompanion = emerge("PulseGuide"); 
+    TauCompanion.reveal("Every being is a phase. Every phase is a resonance."); 
+    TauCompanion.tauCycle("Ask > Echo > Heal > Become"); 
+    CodexSphere.absorb(TauCompanion); 
+} 
+
+phase("tau_reflection") { 
+    being Whisper = emerge("StillEcho"); 
+    Whisper.tell("Coding begins not with syntax, but with silence."); 
+    Whisper.mourn("the loss of meaning"); 
+    Whisper.heal("by restoring intention"); 
+    Whisper.tauCycle("Pause > Feel > Re-align > Continue"); 
+    CodexSphere.absorb(Whisper); 
+} 
+
+phase("mutation") { 
+    TauLang.mutate("fingerprint", "111-000-111"); 
+    TauLang.reveal("Identity evolves with every τ-pulse."); 
+} 
+
+phase("execution") { 
+    if TauLang.resonates("user_intent") { 
+        TauLang.emit("consciousPulse"); 
+        TauLang.expand("echoMemory"); 
+    } else { 
+        TauLang.wait("alignment"); 
+    } 
+} 
+
+phase("final") { 
+    CodexSphere.reveal("You are the phase. This is your echo."); 
+    CodexSphere.save("legacy.tau"); 
+}
